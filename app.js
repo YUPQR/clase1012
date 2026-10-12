@@ -125,3 +125,13 @@ searchInput.addEventListener('input', (evento) => {
 });
 iniciar();
 
+/*
+git init
+git config user.name "YUPQR" 
+git config user.email "yuremquisbert@gmail.com"
+git status
+git remote add origin https://github.com/YUPQR/tecno2.git
+git add .
+git commit -m "actu"
+git push -u origin master
+*/
